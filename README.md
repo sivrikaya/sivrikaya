@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  oguz kagan sivrikaya.
-- 🌱 I’m currently learning js as beginner.
-- 💞️ I’m looking to collaborate on knowledge transfer on js.
+- 🌱 I’m currently learning java as a beginner.
+- 💞️ I’m looking to collaborate on knowledge transfer on java.
 - 📫 sivrikayaoguzkagan@gmail.com you can contact via e mail if you want.
 
 <!---
